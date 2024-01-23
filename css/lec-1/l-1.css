@@ -1,0 +1,26 @@
+ul{
+    background-color: pink;
+    border:2px solid gray;
+}
+#div2{
+		color: purple;
+		font-family: times-roman;
+		background-color: greenyellow;
+		border: 10px solid;
+		border-style: dotted;
+		border-color: gold;
+	}
+ .div3{
+			color: pink;
+			font-family: times-roman;
+			background-color: blue;
+			border: 10px solid;
+			border-color: gold;
+			text-decoration: underline;
+}		
+p{
+	background-color: blueviolet;
+}
+h2{
+	text-decoration: none;
+}
