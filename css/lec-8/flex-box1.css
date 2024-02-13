@@ -1,0 +1,423 @@
+/* .first{
+height: 1000px;
+width: 400px;
+border: black;
+display: flex;
+justify-content: center; */
+.maindiv{
+    height: 200px;
+    max-width: 1000px;
+   
+    background-color: rgb(215, 215, 215);
+    display: flex;
+     justify-content: flex-start;
+    
+     
+}
+.v1{
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+     
+}
+.v2{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+.v3{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+.v4{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+.v5{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+
+
+.box{
+    height: 200px;
+    max-width: 1000px;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+     justify-content: center;
+    
+     
+}
+
+    .s1{
+        height: 100px;
+        width: 100px;
+        /* border: 1px solid black; */
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+        justify-content: space-around;
+    }
+    .s2{
+        height: 100px;
+        width: 100px;
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+         justify-content: space-around;
+    }
+    .s3{
+        height: 100px;
+        width: 100px;
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+         justify-content: space-around;
+    }
+    .s4{
+        height: 100px;
+        width: 100px;
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+         justify-content: space-around;
+    }
+    .s5{
+        height: 100px;
+        width: 100px;
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+         justify-content: space-around;
+    }
+
+
+    .box1{
+        height: 200px;
+        max-width: 1000px;
+        background-color: rgb(215, 215, 215);
+        display: flex;
+         justify-content: flex-end;
+        
+         
+    }
+    
+ .a1{
+     height: 100px; 
+     width: 100px;
+            /* border: 1px solid black; */
+            border-radius: 10px;
+            background-color:rgba(255, 51, 0, 0.742);
+            font-size: 20px;
+            color: white;
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+        }
+
+
+.a2{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: center;
+}
+.a3{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+.a4{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+.a5{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgba(255, 51, 0, 0.742);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+     justify-content: space-around;
+}
+
+
+
+.box2{
+    height: 200px;
+    max-width: 1000px;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+     justify-content: space-between;
+    
+     
+}
+
+.k1{
+ height: 100px; 
+ width: 100px;
+        /* border: 1px solid black; */
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+
+
+.k2{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: center;
+}
+.k3{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.k4{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.k5{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+
+
+
+
+.box3{
+    height: 200px;
+    max-width: 1000px;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+     justify-content: space-around;
+    
+     
+}
+
+.d1{
+ height: 100px; 
+ width: 100px;
+        /* border: 1px solid black; */
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+
+
+.d2{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: center;
+}
+.d3{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.d4{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.d5{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+
+
+
+.box4{
+    height: 200px;
+    max-width: 1000px;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+     justify-content: space-evenly;
+    
+     
+}
+
+.c1{
+ height: 100px; 
+ width: 100px;
+        /* border: 1px solid black; */
+        border-radius: 10px;
+        background-color:rgba(255, 51, 0, 0.742);
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+
+
+.c2{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: center;
+}
+.c3{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.c4{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
+.c5{
+height: 100px;
+width: 100px;
+border-radius: 10px;
+background-color:rgba(255, 51, 0, 0.742);
+font-size: 20px;
+color: white;
+font-weight: bold;
+display: flex;
+ justify-content: space-around;
+}
