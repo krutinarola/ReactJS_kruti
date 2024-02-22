@@ -1,0 +1,22 @@
+.maindiv{
+    background-color: aquamarine;
+    height: 400px;
+    width: 300px;
+    justify-content: space-around;
+}
+img{
+    height: 400px;
+    width: 300px;
+   z-index: 1;
+}
+b{
+  color: aliceblue;
+
+}
+
+
+.div1{
+  background-color: red;
+  height: 100px;
+  width: 200px;
+}

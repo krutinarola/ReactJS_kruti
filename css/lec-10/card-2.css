@@ -1,0 +1,46 @@
+.maindiv{
+    background-color: yellow;
+    height: 650px;
+    width: 1350px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+    
+}
+.v1{
+    background-color: grey;
+    height: 400px;
+    width: 300px;
+    color: orangered ;
+    justify-content: flex-start;
+    position: relative;
+    cursor:pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    position: relative;
+    cursor:pointer;
+    background-image: url("task-1.jpg");
+
+}
+
+h1{
+    color: aliceblue;
+}
+.date{
+    color: aliceblue
+}
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    /* border-radius: 6px; */
+    display: block;
+}
+.v1:hover{
+    transform:scale(0.9);
+    transition:all 1s;
+
+}
+
+
