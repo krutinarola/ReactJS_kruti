@@ -1,0 +1,118 @@
+.maindiv{
+    height: 250px;
+    max-width: 1000px;
+    /* background-color: grey; */
+    display: flex;
+    flex-wrap: nowrap; 
+    margin: 20px;
+    padding: 20px;
+}
+ 
+.v1{
+     height: 200px;
+     width: 200px;
+     border: 2px solid purple;
+    flex-basis: auto;
+     font-size: 30px;
+     font-weight: bold;
+}
+
+.v2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+    flex-basis: auto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.v3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+    flex-basis: auto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.maindiv2{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(227, 201, 201);
+    display: flex;
+    justify-content: start;
+
+
+}
+ 
+.s1{
+     height: 200px;
+     width: 200px;
+     border: 2px solid purple;
+     background-color: white;
+     font-size: 30px;
+     font-weight: bold;
+     flex-basis: 200px;
+}
+
+.s2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+   background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    flex-basis: 200px;
+}
+
+.s3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    flex-basis: 200px;
+}
+
+
+.maindiv3{
+    height: 300px;
+    width: 700px;
+    background-color: rgb(143, 125, 125);
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+ 
+.k1{
+     height: 200px;
+     width: 200px;
+     border: 2px solid purple;
+     background-color: white;
+     font-size: 30px;
+     font-weight: bold;
+     flex-basis: 0cm;
+     
+}
+
+.k2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+   background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    flex-basis: 0cm;
+}
+
+.k3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+flex-basis: 0cm;
+}
