@@ -1,0 +1,33 @@
+@media (min-width:320px){
+    .navbar{
+      display: none;
+    }
+    .img2{
+      vertical-align: center;
+      order: 2;
+    }
+    
+    }
+    @media (min-width:576px){
+      
+    }
+    @media (min-width:768px){
+      .contacy-btn{
+        display: block;
+      }
+    }
+    @media (min-width:992px){
+      .navbar{
+        display: block;
+      }
+    
+    }
+    @media (min-width:1200px){
+     
+    
+    }
+    @media (min-width:1400px){
+    
+    
+    }
+    
